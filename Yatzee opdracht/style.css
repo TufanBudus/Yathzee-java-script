@@ -1,0 +1,39 @@
+table{
+    margin : 10px;
+    border : 2px solid black;
+    border-collapse : collapse;
+    display: inline-block;
+}
+
+table td{
+    width : 100px;
+    height : 25px;
+    border : 1px solid black;
+    text-align: center;
+}
+
+#dices td{
+    width: 400px;
+    font-size: medium;
+}
+
+#dice-launch{
+    height: 70px;
+    font-size: 20px;
+}
+
+body{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+#history table td{
+    width: 400px;
+}
+
+body {
+    background-color: lightblue;
+}
